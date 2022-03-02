@@ -16,3 +16,14 @@ Abaixo PICs da versão mobile agora bem resolvida ( * u * )
 
 ![image](https://user-images.githubusercontent.com/70102177/155898421-d8a77bee-a613-421c-8b1d-85d21ab6024c.png) ![image](https://user-images.githubusercontent.com/70102177/155898433-78aa006f-41b1-4f82-ba98-836ed386c364.png) ![image](https://user-images.githubusercontent.com/70102177/155898441-d2d9bf8e-17dc-4249-aabd-da8ebe4d04b4.png)
 
+
+ATTS: 01/03/2022 = 23:23PM
+
+Correção de bugs referentes a responsividade, site agora se encontra totalmente responsivo, tanto em sua versão Desktop quanto na versão Mobile.
+  - Implementação de efeito lightbox na galeria com JavaScript.
+      obs: lightbox funcional para Desktop/Mobile
+  ![image](https://user-images.githubusercontent.com/70102177/156282758-38408a90-17e2-4b94-9805-8916e5b70444.png)
+  - Implementação da última sessão do menu de navegação, Contato. Com acessibilidade garantida ao usuário ao whatsapp do Cliente com meio visual inconfundível.
+  - Utilização de ícones maiores ao invés de links para maior acessibilidade do usuário.
+  
+Aplicação se encontra no momento em versão beta e está pronta para testes, posteriormente trarei melhorias e atualizações.
