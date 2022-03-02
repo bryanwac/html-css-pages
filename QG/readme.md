@@ -28,4 +28,4 @@ Correção de bugs referentes a responsividade, site agora se encontra totalment
     ![image](https://user-images.githubusercontent.com/70102177/156282758-38408a90-17e2-4b94-9805-8916e5b70444.png)
     (pic. referente ao lightbox)
     
-Aplicação se encontra no momento em versão beta e está pronta para testes, posteriormente trarei melhorias e atualizações.
+Aplicação se encontra no momento em versão alfa e está pronta para testes, posteriormente trarei melhorias e atualizações.
