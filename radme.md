@@ -22,8 +22,8 @@ ATTS: 01/03/2022 = 23:23PM
 Correção de bugs referentes a responsividade, site agora se encontra totalmente responsivo, tanto em sua versão Desktop quanto na versão Mobile.
   - Implementação de efeito lightbox na galeria com JavaScript.
       obs: lightbox funcional para Desktop/Mobile
-  ![image](https://user-images.githubusercontent.com/70102177/156282758-38408a90-17e2-4b94-9805-8916e5b70444.png)
   - Implementação da última sessão do menu de navegação, Contato. Com acessibilidade garantida ao usuário ao whatsapp do Cliente com meio visual inconfundível.
   - Utilização de ícones maiores ao invés de links para maior acessibilidade do usuário.
-  
+    ![image](https://user-images.githubusercontent.com/70102177/156282758-38408a90-17e2-4b94-9805-8916e5b70444.png)
+    (pic. referente ao lightbox)
 Aplicação se encontra no momento em versão beta e está pronta para testes, posteriormente trarei melhorias e atualizações.
