@@ -1,5 +1,7 @@
 PROJETO SITE PARA ESTÚDIO DE TATUAGEM QG STUDIO
 
+LINK PARA TESTE: https://upbeat-sinoussi-c81744.netlify.app/
+
 Site foi iniciado com desktop-first, então me resta apenas corrigir o código e refatorar para alcançar a responsividade total na transição desktop-mobile! Atts serão postas abaixo. o_/
 
 ATTS: 27/02/2022 = 17:16PM
